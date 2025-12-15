@@ -53,3 +53,5 @@ By the end of this 2-hour session, you’ll know how to:
 5. Connect it to external services with **MCP**  
 
 You’ll walk away with practical knowledge and a working **PizzaBot** agent you can build upon for real-world use cases.  
+
+#vs_LB9nSq7fNX6g4mEdRxPRJ7Pz
